@@ -5,5 +5,9 @@ This file contains the small projects I’ve worked on for various assignments s
 python项目：
 1.四子游戏
 2.迷宫大冒险
+
 computer system项目：
 1.单片机小项目
+
+JAVA项目
+1.矿工游戏 mine
